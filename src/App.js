@@ -187,7 +187,9 @@ class JumpBack extends React.Component {
         onClick={() => setCurrentTime(currentTime - 10)}
         disabled={!isPlaying}
         title="Back 10 Seconds"
-      ><FaRotateLeft/></button>
+      >
+        <FaRotateLeft/>
+      </button>
     )
   }
 }
