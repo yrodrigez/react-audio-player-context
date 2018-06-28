@@ -1,4 +1,4 @@
-Advanced React Exercise
+Advanced React
 =======================
 
 If using [yarn](https://yarnpkg.com) (recommended)
